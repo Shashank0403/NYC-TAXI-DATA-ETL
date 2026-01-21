@@ -1,0 +1,6 @@
+- **Crawler Name:** csvtransform-crawler
+- **Source S3 Path:** s3://inputdatastore-file-transform
+-**Database:** csvtransform
+- **Table Prefix:** 
+- **Schedule:** On demand
+- **IAM Role:** AWSGlueServiceRole-CSV-Transform-Crawler 
