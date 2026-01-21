@@ -1,0 +1,6 @@
+- **Crawler Name:** ingest
+- **Source S3 Path:** s3://shashank-datalake/bronze/ingest/batch-taxidata/
+- **Database:** shashank-datalake
+- **Table Prefix:** 
+- **Schedule:** On demand
+- **IAM Role:** AWSGlueServiceRole-batchIngestBronze
